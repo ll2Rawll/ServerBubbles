@@ -4,6 +4,14 @@ A floating server switcher for BetterDiscord. Hover to enlarge a server; nearby 
 
 [Download ServerBubbles.plugin.js](https://raw.githubusercontent.com/pistolswang013/ServerBubbles/main/ServerBubbles.plugin.js)
 
+## Previews
+
+The playground and settings studio, shown with sample servers. Click a preview to see it full size.
+
+| Glass & color | Bubble layout | Motion controls |
+| --- | --- | --- |
+| [![Glass and color customization](previews/style.png)](previews/style.png) | [![Bubble size and layout controls](previews/bubbles.png)](previews/bubbles.png) | [![Motion and performance controls](previews/motion.png)](previews/motion.png) |
+
 ## Install
 
 1. In Discord, open **Settings → BetterDiscord → Plugins → Open Plugins Folder**.
